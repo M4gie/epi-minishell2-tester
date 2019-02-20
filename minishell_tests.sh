@@ -143,9 +143,9 @@ execute "./bin/ls" "0"
 execute "/bin/ls" "0"
 execute "./lib" "0"
 
-### SEMILICON TESTS ###
+### SEMICOLON TESTS ###
 
-printf "\n\033[1;33m=== MINISHELL SEMILICON TESTS ===\033[0m\n\n"
+printf "\n\033[1;33m=== MINISHELL SEMICOLON TESTS ===\033[0m\n\n"
 
 execute "ls ; ls ; ls ; ls ; ls ; ls ; ls" "0"
 execute "ls;ls;ls;ls;ls;ls;ls" "0"
