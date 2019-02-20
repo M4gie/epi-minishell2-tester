@@ -10,6 +10,9 @@ Hi! This tester is provide to help you to test your program during his **develop
  - *Step 2*: go into the repository
 
  - *Step 3*: move your "mysh" file into this repository
- 
- - *Step 4*: run the tester with this command:
+
+ - *Step 4*: add execution rights:
+    `chmod +x minishell_tests.sh`
+
+ - *Step 5*: run the tester with this command:
     `sh ./sh minishell_tests.sh`
